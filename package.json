@@ -13,5 +13,6 @@
     "randy": "1.5.1",
     "sentencer": "*"
   },
-  "main": "app.js"
+  "main": "app.js",
+  "type": "module"
 }
